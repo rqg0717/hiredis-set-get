@@ -1,2 +1,2 @@
 # hiredis-set-get
-a quick hiredis example
+a quick hiredis set and get example
